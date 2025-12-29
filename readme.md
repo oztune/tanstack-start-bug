@@ -1,8 +1,4 @@
-This is a reproduction of a bug in Tanstack Start.
-
-The bug is that I can't create a route that start with an underscore. (for example `/_hello`)
-
-This only happens when the Tanstack Start app is inside of a monorepo!!!
+This is a reproduction of a bug in Tanstack Start where you can't create a route that starts with an underscore, but only in a monorepo.
 
 ## Running it
 
