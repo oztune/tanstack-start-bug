@@ -9,6 +9,7 @@ pnpm install
 
 Run the development server:
 ```
+cd apps/tanstack-bug
 pnpm dev
 ```
 
